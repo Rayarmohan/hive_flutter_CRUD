@@ -12,9 +12,9 @@ The app allows users to manage a list of persons with their name and age.
 5.Run flutter run to launch the application.
 
 ## Images
-![hive3.jpeg](..%2F..%2FDownloads%2Fhive3.jpeg)
-![hive2.jpeg](..%2F..%2FDownloads%2Fhive2.jpeg)
-![hive1.jpeg](..%2F..%2FDownloads%2Fhive1.jpeg)
+![hive3](https://github.com/Rayarmohan/hive_flutter_CRUD/assets/117017937/08b135ac-22e5-4c32-a1cf-aef7ddbe8ece)
+![hive2](https://github.com/Rayarmohan/hive_flutter_CRUD/assets/117017937/3b063c01-a540-4691-b0e3-5254b0062176)
+![hive1](https://github.com/Rayarmohan/hive_flutter_CRUD/assets/117017937/cb8b225e-3362-4802-9134-3ddc7a54d264)
 
 
 
